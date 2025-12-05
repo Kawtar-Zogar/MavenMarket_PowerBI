@@ -73,7 +73,7 @@ Calculs complexes pour les indicateurs clés de performance tels que la Marge b�
 ### 9. Time Intelligence (Analyse Temporelle)
 
 Utilisation des fonctions DAX avancées pour le calcul des indicateurs cumulatifs (comme le Revenu YTD) et l'analyse des tendances.
-![Formule DAX de Time Intelligence ](Ressources/Mesure%20Time%20Intelligence.png)
+![Formule DAX de Time Intelligence (Revenu YTD)](Ressources/Mesure%20Time%20Intelligence.png)
 
 ***
 
